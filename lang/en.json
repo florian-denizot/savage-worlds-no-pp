@@ -1,0 +1,102 @@
+{
+    "BRSW.powerAction": "Power options",
+    "BRSW.powerPreparation": "Power preparation (+2)",
+    
+    "BRSW.powerTnModifier": "Power Base Modifier",
+    "BRSW.powerTnModifier0-5": "Power Base Penalty (-0.5)",
+    "BRSW.powerTnModifier1": "Power Base Penalty (-1)",
+    "BRSW.powerTnModifier1-5": "Power Base Penalty (-1.5)",
+    "BRSW.powerTnModifier2": "Power Base Penalty (-2)",
+    "BRSW.powerTnModifier2-5": "Power Base Penalty (-2.5)",
+    "BRSW.powerTnModifier15": "Power Base Penalty (-15)",
+
+    "BRSW.PowerModifierArmorPiercing1": "AP 2 (-0.5)",
+    "BRSW.PowerModifierArmorPiercing2": "AP 4 (-1)",
+    "BRSW.PowerModifierArmorPiercing3": "AP 6 (-1.5)",
+
+    "BRSW.PowerModifiersGenericFatigueModifier": "Fatigue (-1)",
+    "BRSW.PowerModifiersGenericGlowShroud": "Glow/Shroud (-0.5)",
+    "BRSW.PowerModifiersGenericHeavyWeaponModifier": "Heavy weapon (-1)",
+    "BRSW.PowerModifiersGenericHinderHurryModifier": "Hinder/Hurry (-0.5)",
+    "BRSW.PowerModifiersGenericLingeringDamageModifier": "Lingering Damage (-1)",
+    "BRSW.PowerModifiersGenericRangeModifier1": "Range 2x (-0.5)",
+    "BRSW.PowerModifiersGenericRangeModifier2": "Range 3x (-1)",
+    "BRSW.PowerModifiersGenericSelectiveModifier": "Selective (-0.5)",
+    "BRSW.PowerModifiersGenericHastyModifier": "Hasty (-1)",
+
+    "BRSW.PowerModifiersGenericAdditionalRecipients1": "AR +1 (-0.5)",
+    "BRSW.PowerModifiersGenericAdditionalRecipients2": "AR +2 (-1)",
+    "BRSW.PowerModifiersGenericAdditionalRecipients3": "AR +3 (-1.5)",
+    "BRSW.PowerModifiersGenericAdditionalRecipients4": "AR +4 (-2)",
+    "BRSW.PowerModifiersGenericAdditionalRecipients5": "AR +5 (-2.5)",
+
+    "BRSW.PowerModifiersArcaneProtectionGreater": "☆ Greater Arcane Protection [-4 penalty] (-1)",
+
+    "BRSW.PowerModifiersBeastFriendBeastarium": "☆ Beastarium (-1)",
+
+    "BRSW.PowerModifiersDuration": "Duration (-0.5)",
+
+    "BRSW.PowerModifiersMindRider": "Mind Rider (-0.5)",
+
+    "BRSW.PowerModifiersBlindStrong": "Strong [Vig-2] (-0.5)",
+    "BRSW.PowerModifiersBlindAreaEffect2MBT": "Medium AoE (-1)",
+    "BRSW.PowerModifiersBlindAreaEffect3LBTStream": "Large AoE (-1.5)",
+
+    "BRSW.PowerModifiersBoltDamage": "Damage +1d6 (-1)",
+    "BRSW.PowerModifiersBoltGreaterBolt": "☆ Greater Bolt [+4d6] (-2)",
+    "BRSW.PowerModifiersBoltDisintegrate": "☆ Disintegrate (-1)",
+    "BRSW.PowerModifiersBoltRateOfFire": "☆ Rate of Fire (-1)",
+
+    "BRSW.PowerModifiersBoostLowerGreater": "☆ Greater Boost/Lower (-1)",
+    "BRSW.PowerModifiersBoostLowerStrong": "Strong [Lower only] (-0.5)",
+
+    "BRSW.PowerModifiersBurrowPower": "Power (-0.5)",
+
+    "BRSW.PowerModifiersBurstDamage": "Damage +1d6 (-1)",
+    "BRSW.PowerModifiersBurstGreaterBurst": "☆ Greater Burst [+4d6] (-2)",
+    "BRSW.PowerModifiersBurstPush": "Push 2d6 feet (-0.5)",
+
+    "BRSW.PowerModifiersEntangleAreaEffectMBT": "Medium AoE (-1)",
+    "BRSW.PowerModifiersEntangleAreaEffectLBTStream": "Large AoE or Stream (-1.5)",
+    "BRSW.PowerModifiersEntangleDamage": "Damage [2d4] (-1)",
+    "BRSW.PowerModifiersEntangleDeadly": "☆ Deadly [2d6] (-2)",
+    "BRSW.PowerModifiersEntangleTough": "Tough [Hard 10] (-0.5)",
+
+    "BRSW.PowerModifiersEnvironmentalProtectionEnvironmentalResistance": "Environmental Resistance (-0.5)",
+
+    "BRSW.PowerModifiersHavocGreaterHavoc": "Damage +1d6 (-1)",
+    "BRSW.PowerModifiersHavocAreaEffect": "Large AoE (-0.5)",
+
+    "BRSW.PowerModifiersHealingGreaterHealing": "Greater Healing (-5)",
+    "BRSW.PowerModifiersHealingCripplingInjuries": "Crippling Injuries (-10)",
+    "BRSW.PowerModifiersHealingMassHealingMBT": "☆ Mass Healing [Medium AoE] (-1)",
+    "BRSW.PowerModifiersHealingMassHealingLBT": "☆ Mass Healing [Large AoE] (-1.5)",
+    "BRSW.PowerModifiersHealingNeutralisePoisonOrDisease": "Neutralize Poison or Disease (-0.5)",
+
+    "BRSW.PowerModifiersReliefRestoration": "Restoration (-1.5)",
+    "BRSW.PowerModifiersReliefStunned": "Stunned (-0.5)",
+
+    "BRSW.PowerModifiersSanctuaryStrong": "☆ Strong [Spirit -2/-4] (-0.5)",
+    "BRSW.PowerModifiersSanctuaryAreaEffectMBT": "Medium AoE (-1)",
+    "BRSW.PowerModifiersSanctuaryAreaEffectLBT": "Large AoE (-1.5)",
+
+    "BRSW.PowerModifiersShapeChangeDuration": "Duration (-0.5)",
+    "BRSW.PowerModifiersShapeChangeTransformTouch": "☆ Transform [Touch] (-1)",
+    "BRSW.PowerModifiersShapeChangeTransformRange": "☆ Transform [Range] (-1.5)",
+    "BRSW.PowerModifiersShapeChangePolymorph": "☆ Polymorph (-1.5)",
+    "BRSW.PowerModifiersShapeChangeSize-4to-1": "Size -4 to -1 (-1.5)",
+    "BRSW.PowerModifiersShapeChangeSize0": "Size 0 [Seasoned+] (-2.5)",
+    "BRSW.PowerModifiersShapeChangeSize1to2": "Size 1 to 2 [Veteran+] (-4)",
+    "BRSW.PowerModifiersShapeChangeSize3to4": "Size 3 to 4 [Heroic] (-5.5)",
+    "BRSW.PowerModifiersShapeChangeSize5to10": "Size 5 to 10 [Legendary] (-7.5)",
+
+    "BRSW.PowerModifiersSummonAlly1Novice": "Novice (-0.5)",
+    "BRSW.PowerModifiersSummonAlly2Seasoned": "Seasonned (-1.5)",
+    "BRSW.PowerModifiersSummonAlly3Veteran": "Veteran (-2.5)",
+    "BRSW.PowerModifiersSummonAlly4Heroic": "Heroic (-3.5)",
+    "BRSW.PowerModifiersSummonAllyMindRider": "Mind Rider (-0.5)",
+    "BRSW.PowerModifiersSummonAllyFlight": "Flight (-0.5)",
+    "BRSW.PowerModifiersSummonAllyAdditionalAllies": "Additional Allies (+0)",
+    "BRSW.PowerModifiersSummonAllyCombatEdge": "Combat Edge (+0)",
+    "BRSW.PowerModifiersSummonAllyIncreasedTrait": "Increased Trait (+0)"
+}

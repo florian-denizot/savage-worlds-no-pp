@@ -1,0 +1,38 @@
+{
+  "id": "savage-worlds-no-pp",
+  "title": "Savage Worlds No Power Point",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "betterrolls-swade2",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system"
+      }
+    ]
+  },
+  "description": "A module for Savage Worlds that applies the No Power Point optional rule",
+  "authors": [
+    {
+      "name": "Florian Denizot"
+    }
+  ],
+  "esmodules": ["./scripts/init.js"],
+  "languages": [
+    {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json",
+        "flags": {}
+    }
+]
+}
